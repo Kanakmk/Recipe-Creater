@@ -1,4 +1,4 @@
-### Recipe-Creater
+### Recipe-Simplifier
 
 This class has a constructor that takes a recipe provided by the user which includes two parts:
   - Name of the recipe serparated by white space
